@@ -1,0 +1,419 @@
+PassengerId,Name,Sex,Survived
+892,"Kelly, Mr. James",male,No
+893,"Wilkes, Mrs. James (Ellen Needs)",female,No
+894,"Myles, Mr. Thomas Francis",male,No
+895,"Wirz, Mr. Albert",male,Yes
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,Yes
+897,"Svensson, Mr. Johan Cervin",male,No
+898,"Connolly, Miss. Kate",female,No
+899,"Caldwell, Mr. Albert Francis",male,No
+900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,No
+901,"Davies, Mr. John Samuel",male,No
+902,"Ilieff, Mr. Ylio",male,No
+903,"Jones, Mr. Charles Cresson",male,No
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,Yes
+905,"Howard, Mr. Benjamin",male,Yes
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,Yes
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,Yes
+908,"Keane, Mr. Daniel",male,No
+909,"Assaf, Mr. Gerios",male,No
+910,"Ilmakangas, Miss. Ida Livija",female,Yes
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,No
+912,"Rothschild, Mr. Martin",male,No
+913,"Olsen, Master. Artur Karl",male,No
+914,"Flegenheim, Mrs. Alfred (Antoinette)",female,Yes
+915,"Williams, Mr. Richard Norris II",male,No
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,Yes
+917,"Robins, Mr. Alexander A",male,No
+918,"Ostby, Miss. Helene Ragnhild",female,Yes
+919,"Daher, Mr. Shedid",male,No
+920,"Brady, Mr. John Bertram",male,No
+921,"Samaan, Mr. Elias",male,No
+922,"Louch, Mr. Charles Alexander",male,No
+923,"Jefferys, Mr. Clifford Thomas",male,No
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,Yes
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,No
+926,"Mock, Mr. Philipp Edmund",male,No
+927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,No
+928,"Roth, Miss. Sarah A",female,No
+929,"Cacic, Miss. Manda",female,No
+930,"Sap, Mr. Julius",male,No
+931,"Hee, Mr. Ling",male,No
+932,"Karun, Mr. Franz",male,No
+933,"Franklin, Mr. Thomas Parham",male,No
+934,"Goldsmith, Mr. Nathan",male,No
+935,"Corbett, Mrs. Walter H (Irene Colvin)",female,Yes
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,Yes
+937,"Peltomaki, Mr. Nikolai Johannes",male,No
+938,"Chevre, Mr. Paul Romaine",male,No
+939,"Shaughnessy, Mr. Patrick",male,No
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,Yes
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,Yes
+942,"Smith, Mr. Lucien Philip",male,No
+943,"Pulbaum, Mr. Franz",male,No
+944,"Hocking, Miss. Ellen Nellie""""",female,Yes
+945,"Fortune, Miss. Ethel Flora",female,Yes
+946,"Mangiavacchi, Mr. Serafino Emilio",male,No
+947,"Rice, Master. Albert",male,No
+948,"Cor, Mr. Bartol",male,No
+949,"Abelseth, Mr. Olaus Jorgensen",male,No
+950,"Davison, Mr. Thomas Henry",male,No
+951,"Chaudanson, Miss. Victorine",female,Yes
+952,"Dika, Mr. Mirko",male,No
+953,"McCrae, Mr. Arthur Gordon",male,No
+954,"Bjorklund, Mr. Ernst Herbert",male,No
+955,"Bradley, Miss. Bridget Delia",female,Yes
+956,"Ryerson, Master. John Borie",male,Yes
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,Yes
+958,"Burns, Miss. Mary Delia",female,No
+959,"Moore, Mr. Clarence Bloomfield",male,No
+960,"Tucker, Mr. Gilbert Milligan Jr",male,No
+961,"Fortune, Mrs. Mark (Mary McDougald)",female,Yes
+962,"Mulvihill, Miss. Bertha E",female,Yes
+963,"Minkoff, Mr. Lazar",male,No
+964,"Nieminen, Miss. Manta Josefina",female,No
+965,"Ovies y Rodriguez, Mr. Servando",male,No
+966,"Geiger, Miss. Amalie",female,Yes
+967,"Keeping, Mr. Edwin",male,No
+968,"Miles, Mr. Frank",male,No
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,Yes
+970,"Aldworth, Mr. Charles Augustus",male,No
+971,"Doyle, Miss. Elizabeth",female,Yes
+972,"Boulos, Master. Akar",male,Yes
+973,"Straus, Mr. Isidor",male,No
+974,"Case, Mr. Howard Brown",male,Yes
+975,"Demetri, Mr. Marinko",male,No
+976,"Lamb, Mr. John Joseph",male,No
+977,"Khalil, Mr. Betros",male,No
+978,"Barry, Miss. Julia",female,Yes
+979,"Badman, Miss. Emily Louisa",female,No
+980,"O'Donoghue, Ms. Bridget",female,No
+981,"Wells, Master. Ralph Lester",male,Yes
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,Yes
+983,"Pedersen, Mr. Olaf",male,No
+984,"Davidson, Mrs. Thornton (Orian Hays)",female,Yes
+985,"Guest, Mr. Robert",male,No
+986,"Birnbaum, Mr. Jakob",male,Yes
+987,"Tenglin, Mr. Gunnar Isidor",male,No
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,Yes
+989,"Makinen, Mr. Kalle Edvard",male,No
+990,"Braf, Miss. Elin Ester Maria",female,No
+991,"Nancarrow, Mr. William Henry",male,No
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,Yes
+993,"Weisz, Mr. Leopold",male,No
+994,"Foley, Mr. William",male,No
+995,"Johansson Palmquist, Mr. Oskar Leander",male,No
+996,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,Yes
+997,"Holthen, Mr. Johan Martin",male,No
+998,"Buckley, Mr. Daniel",male,No
+999,"Ryan, Mr. Edward",male,No
+1000,"Willer, Mr. Aaron (Abi Weller"")""",male,No
+1001,"Swane, Mr. George",male,No
+1002,"Stanton, Mr. Samuel Ward",male,No
+1003,"Shine, Miss. Ellen Natalia",female,No
+1004,"Evans, Miss. Edith Corse",female,Yes
+1005,"Buckley, Miss. Katherine",female,Yes
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,Yes
+1007,"Chronopoulos, Mr. Demetrios",male,No
+1008,"Thomas, Mr. John",male,No
+1009,"Sandstrom, Miss. Beatrice Irene",female,Yes
+1010,"Beattie, Mr. Thomson",male,Yes
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,Yes
+1012,"Watt, Miss. Bertha J",female,Yes
+1013,"Kiernan, Mr. John",male,No
+1014,"Schabert, Mrs. Paul (Emma Mock)",female,Yes
+1015,"Carver, Mr. Alfred John",male,No
+1016,"Kennedy, Mr. John",male,No
+1017,"Cribb, Miss. Laura Alice",female,Yes
+1018,"Brobeck, Mr. Karl Rudolf",male,No
+1019,"McCoy, Miss. Alicia",female,No
+1020,"Bowenur, Mr. Solomon",male,No
+1021,"Petersen, Mr. Marius",male,No
+1022,"Spinner, Mr. Henry John",male,No
+1023,"Gracie, Col. Archibald IV",male,No
+1024,"Lefebre, Mrs. Frank (Frances)",female,No
+1025,"Thomas, Mr. Charles P",male,No
+1026,"Dintcheff, Mr. Valtcho",male,No
+1027,"Carlsson, Mr. Carl Robert",male,No
+1028,"Zakarian, Mr. Mapriededer",male,Yes
+1029,"Schmidt, Mr. August",male,No
+1030,"Drapkin, Miss. Jennie",female,Yes
+1031,"Goodwin, Mr. Charles Frederick",male,No
+1032,"Goodwin, Miss. Jessie Allis",female,No
+1033,"Daniels, Miss. Sarah",female,Yes
+1034,"Ryerson, Mr. Arthur Larned",male,No
+1035,"Beauchamp, Mr. Henry James",male,No
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,No
+1037,"Vander Planke, Mr. Julius",male,No
+1038,"Hilliard, Mr. Herbert Henry",male,No
+1039,"Davies, Mr. Evan",male,No
+1040,"Crafton, Mr. John Bertram",male,No
+1041,"Lahtinen, Rev. William",male,No
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",female,Yes
+1043,"Matinoff, Mr. Nicola",male,No
+1044,"Storey, Mr. Thomas",male,No
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,Yes
+1046,"Asplund, Master. Filip Oscar",male,Yes
+1047,"Duquemin, Mr. Joseph",male,No
+1048,"Bird, Miss. Ellen",female,Yes
+1049,"Lundin, Miss. Olga Elida",female,Yes
+1050,"Borebank, Mr. John James",male,No
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",female,Yes
+1052,"Smyth, Miss. Julia",female,No
+1053,"Touma, Master. Georges Youssef",male,No
+1054,"Wright, Miss. Marion",female,Yes
+1055,"Pearce, Mr. Ernest",male,No
+1056,"Peruschitz, Rev. Joseph Maria",male,No
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,Yes
+1058,"Brandeis, Mr. Emil",male,Yes
+1059,"Ford, Mr. Edward Watson",male,No
+1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,Yes
+1061,"Hellstrom, Miss. Hilda Maria",female,Yes
+1062,"Lithman, Mr. Simon",male,No
+1063,"Zakarian, Mr. Ortin",male,Yes
+1064,"Dyker, Mr. Adolf Fredrik",male,No
+1065,"Torfa, Mr. Assad",male,No
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,No
+1067,"Brown, Miss. Edith Eileen",female,Yes
+1068,"Sincock, Miss. Maude",female,Yes
+1069,"Stengel, Mr. Charles Emil Henry",male,No
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,Yes
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,Yes
+1072,"McCrie, Mr. James Matthew",male,No
+1073,"Compton, Mr. Alexander Taylor Jr",male,No
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,Yes
+1075,"Lane, Mr. Patrick",male,No
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,Yes
+1077,"Maybery, Mr. Frank Hubert",male,No
+1078,"Phillips, Miss. Alice Frances Louisa",female,Yes
+1079,"Davies, Mr. Joseph",male,No
+1080,"Sage, Miss. Ada",female,No
+1081,"Veal, Mr. James",male,No
+1082,"Angle, Mr. William A",male,No
+1083,"Salomon, Mr. Abraham L",male,No
+1084,"van Billiard, Master. Walter John",male,Yes
+1085,"Lingane, Mr. John",male,No
+1086,"Drew, Master. Marshall Brines",male,Yes
+1087,"Karlsson, Mr. Julius Konrad Eugen",male,No
+1088,"Spedden, Master. Robert Douglas",male,Yes
+1089,"Nilsson, Miss. Berta Olivia",female,No
+1090,"Baimbrigge, Mr. Charles Robert",male,No
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,No
+1092,"Murphy, Miss. Nora",female,No
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",male,Yes
+1094,"Astor, Col. John Jacob",male,No
+1095,"Quick, Miss. Winifred Vera",female,Yes
+1096,"Andrew, Mr. Frank Thomas",male,No
+1097,"Omont, Mr. Alfred Fernand",male,No
+1098,"McGowan, Miss. Katherine",female,Yes
+1099,"Collett, Mr. Sidney C Stuart",male,No
+1100,"Rosenbaum, Miss. Edith Louise",female,Yes
+1101,"Delalic, Mr. Redjo",male,No
+1102,"Andersen, Mr. Albert Karvin",male,No
+1103,"Finoli, Mr. Luigi",male,No
+1104,"Deacon, Mr. Percy William",male,No
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,Yes
+1106,"Andersson, Miss. Ida Augusta Margareta",female,No
+1107,"Head, Mr. Christopher",male,No
+1108,"Mahon, Miss. Bridget Delia",female,No
+1109,"Wick, Mr. George Dennick",male,No
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,Yes
+1111,"Thomson, Mr. Alexander Morrison",male,No
+1112,"Duran y More, Miss. Florentina",female,Yes
+1113,"Reynolds, Mr. Harold J",male,No
+1114,"Cook, Mrs. (Selena Rogers)",female,Yes
+1115,"Karlsson, Mr. Einar Gervasius",male,No
+1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,Yes
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,No
+1118,"Asplund, Mr. Johan Charles",male,No
+1119,"McNeill, Miss. Bridget",female,No
+1120,"Everett, Mr. Thomas James",male,No
+1121,"Hocking, Mr. Samuel James Metcalfe",male,No
+1122,"Sweet, Mr. George Frederick",male,No
+1123,"Willard, Miss. Constance",female,Yes
+1124,"Wiklund, Mr. Karl Johan",male,No
+1125,"Linehan, Mr. Michael",male,No
+1126,"Cumings, Mr. John Bradley",male,No
+1127,"Vendel, Mr. Olof Edvin",male,No
+1128,"Warren, Mr. Frank Manley",male,No
+1129,"Baccos, Mr. Raffull",male,No
+1130,"Hiltunen, Miss. Marta",female,Yes
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,Yes
+1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,Yes
+1133,"Christy, Mrs. (Alice Frances)",female,Yes
+1134,"Spedden, Mr. Frederic Oakley",male,No
+1135,"Hyman, Mr. Abraham",male,No
+1136,"Johnston, Master. William Arthur Willie""""",male,No
+1137,"Kenyon, Mr. Frederick R",male,No
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",female,Yes
+1139,"Drew, Mr. James Vivian",male,No
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,Yes
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,No
+1142,"West, Miss. Barbara J",female,Yes
+1143,"Abrahamsson, Mr. Abraham August Johannes",male,No
+1144,"Clark, Mr. Walter Miller",male,Yes
+1145,"Salander, Mr. Karl Johan",male,No
+1146,"Wenzel, Mr. Linhart",male,No
+1147,"MacKay, Mr. George William",male,No
+1148,"Mahon, Mr. John",male,No
+1149,"Niklasson, Mr. Samuel",male,No
+1150,"Bentham, Miss. Lilian W",female,Yes
+1151,"Midtsjo, Mr. Karl Albert",male,No
+1152,"de Messemaeker, Mr. Guillaume Joseph",male,No
+1153,"Nilsson, Mr. August Ferdinand",male,No
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,Yes
+1155,"Klasen, Miss. Gertrud Emilia",female,Yes
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,No
+1157,"Lyntakoff, Mr. Stanko",male,No
+1158,"Chisholm, Mr. Roderick Robert Crispin",male,No
+1159,"Warren, Mr. Charles William",male,No
+1160,"Howard, Miss. May Elizabeth",female,No
+1161,"Pokrnic, Mr. Mate",male,No
+1162,"McCaffry, Mr. Thomas Francis",male,No
+1163,"Fox, Mr. Patrick",male,No
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,Yes
+1165,"Lennon, Miss. Mary",female,No
+1166,"Saade, Mr. Jean Nassr",male,No
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,Yes
+1168,"Parker, Mr. Clifford Richard",male,No
+1169,"Faunthorpe, Mr. Harry",male,No
+1170,"Ware, Mr. John James",male,No
+1171,"Oxenham, Mr. Percy Thomas",male,No
+1172,"Oreskovic, Miss. Jelka",female,Yes
+1173,"Peacock, Master. Alfred Edward",male,Yes
+1174,"Fleming, Miss. Honora",female,No
+1175,"Touma, Miss. Maria Youssef",female,No
+1176,"Rosblom, Miss. Salli Helena",female,No
+1177,"Dennis, Mr. William",male,No
+1178,"Franklin, Mr. Charles (Charles Fardon)",male,No
+1179,"Snyder, Mr. John Pillsbury",male,No
+1180,"Mardirosian, Mr. Sarkis",male,No
+1181,"Ford, Mr. Arthur",male,No
+1182,"Rheims, Mr. George Alexander Lucien",male,No
+1183,"Daly, Miss. Margaret Marcella Maggie""""",female,No
+1184,"Nasr, Mr. Mustafa",male,No
+1185,"Dodge, Dr. Washington",male,No
+1186,"Wittevrongel, Mr. Camille",male,No
+1187,"Angheloff, Mr. Minko",male,No
+1188,"Laroche, Miss. Louise",female,Yes
+1189,"Samaan, Mr. Hanna",male,No
+1190,"Loring, Mr. Joseph Holland",male,No
+1191,"Johansson, Mr. Nils",male,No
+1192,"Olsson, Mr. Oscar Wilhelm",male,No
+1193,"Malachard, Mr. Noel",male,No
+1194,"Phillips, Mr. Escott Robert",male,No
+1195,"Pokrnic, Mr. Tome",male,No
+1196,"McCarthy, Miss. Catherine Katie""""",female,No
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,Yes
+1198,"Allison, Mr. Hudson Joshua Creighton",male,No
+1199,"Aks, Master. Philip Frank",male,Yes
+1200,"Hays, Mr. Charles Melville",male,No
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,No
+1202,"Cacic, Mr. Jego Grga",male,No
+1203,"Vartanian, Mr. David",male,No
+1204,"Sadowitz, Mr. Harry",male,No
+1205,"Carr, Miss. Jeannie",female,No
+1206,"White, Mrs. John Stuart (Ella Holmes)",female,Yes
+1207,"Hagardon, Miss. Kate",female,Yes
+1208,"Spencer, Mr. William Augustus",male,No
+1209,"Rogers, Mr. Reginald Harry",male,No
+1210,"Jonsson, Mr. Nils Hilding",male,Yes
+1211,"Jefferys, Mr. Ernest Wilfred",male,No
+1212,"Andersson, Mr. Johan Samuel",male,No
+1213,"Krekorian, Mr. Neshan",male,No
+1214,"Nesson, Mr. Israel",male,No
+1215,"Rowe, Mr. Alfred G",male,No
+1216,"Kreuchen, Miss. Emilie",female,Yes
+1217,"Assam, Mr. Ali",male,No
+1218,"Becker, Miss. Ruth Elizabeth",female,Yes
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",male,No
+1220,"Clarke, Mr. Charles Valentine",male,No
+1221,"Enander, Mr. Ingvar",male,No
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,Yes
+1223,"Dulles, Mr. William Crothers",male,No
+1224,"Thomas, Mr. Tannous",male,No
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,No
+1226,"Cor, Mr. Ivan",male,Yes
+1227,"Maguire, Mr. John Edward",male,No
+1228,"de Brito, Mr. Jose Joaquim",male,No
+1229,"Elias, Mr. Joseph",male,No
+1230,"Denbury, Mr. Herbert",male,No
+1231,"Betros, Master. Seman",male,No
+1232,"Fillbrook, Mr. Joseph Charles",male,No
+1233,"Lundstrom, Mr. Thure Edvin",male,No
+1234,"Sage, Mr. John George",male,No
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,Yes
+1236,"van Billiard, Master. James William",male,No
+1237,"Abelseth, Miss. Karen Marie",female,Yes
+1238,"Botsford, Mr. William Hull",male,No
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,No
+1240,"Giles, Mr. Ralph",male,No
+1241,"Walcroft, Miss. Nellie",female,Yes
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,Yes
+1243,"Stokes, Mr. Philip Joseph",male,No
+1244,"Dibden, Mr. William",male,No
+1245,"Herman, Mr. Samuel",male,No
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",female,Yes
+1247,"Julian, Mr. Henry Forbes",male,No
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,Yes
+1249,"Lockyer, Mr. Edward",male,No
+1250,"O'Keefe, Mr. Patrick",male,No
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,No
+1252,"Sage, Master. William Henry",male,No
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",female,Yes
+1254,"Ware, Mrs. John James (Florence Louise Long)",female,Yes
+1255,"Strilic, Mr. Ivan",male,Yes
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",female,Yes
+1257,"Sage, Mrs. John (Annie Bullen)",female,No
+1258,"Caram, Mr. Joseph",male,No
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,Yes
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,Yes
+1261,"Pallas y Castello, Mr. Emilio",male,No
+1262,"Giles, Mr. Edgar",male,No
+1263,"Wilson, Miss. Helen Alice",female,Yes
+1264,"Ismay, Mr. Joseph Bruce",male,Yes
+1265,"Harbeck, Mr. William H",male,No
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",female,Yes
+1267,"Bowen, Miss. Grace Scott",female,Yes
+1268,"Kink, Miss. Maria",female,Yes
+1269,"Cotterill, Mr. Henry Harry""""",male,No
+1270,"Hipkins, Mr. William Edward",male,No
+1271,"Asplund, Master. Carl Edgar",male,Yes
+1272,"O'Connor, Mr. Patrick",male,No
+1273,"Foley, Mr. Joseph",male,No
+1274,"Risien, Mrs. Samuel (Emma)",female,No
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",female,No
+1276,"Wheeler, Mr. Edwin Frederick""""",male,No
+1277,"Herman, Miss. Kate",female,Yes
+1278,"Aronsson, Mr. Ernst Axel Algot",male,No
+1279,"Ashby, Mr. John",male,No
+1280,"Canavan, Mr. Patrick",male,No
+1281,"Palsson, Master. Paul Folke",male,Yes
+1282,"Payne, Mr. Vivian Ponsonby",male,No
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,Yes
+1284,"Abbott, Master. Eugene Joseph",male,Yes
+1285,"Gilbert, Mr. William",male,No
+1286,"Kink-Heilmann, Mr. Anton",male,No
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,Yes
+1288,"Colbert, Mr. Patrick",male,No
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,Yes
+1290,"Larsson-Rondberg, Mr. Edvard A",male,No
+1291,"Conlon, Mr. Thomas Henry",male,No
+1292,"Bonnell, Miss. Caroline",female,Yes
+1293,"Gale, Mr. Harry",male,No
+1294,"Gibson, Miss. Dorothy Winifred",female,Yes
+1295,"Carrau, Mr. Jose Pedro",male,Yes
+1296,"Frauenthal, Mr. Isaac Gerald",male,No
+1297,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,No
+1298,"Ware, Mr. William Jeffery",male,No
+1299,"Widener, Mr. George Dunton",male,No
+1300,"Riordan, Miss. Johanna Hannah""""",female,No
+1301,"Peacock, Miss. Treasteall",female,Yes
+1302,"Naughton, Miss. Hannah",female,No
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,Yes
+1304,"Henriksson, Miss. Jenny Lovisa",female,No
+1305,"Spector, Mr. Woolf",male,No
+1306,"Oliva y Ocana, Dona. Fermina",female,Yes
+1307,"Saether, Mr. Simon Sivertsen",male,No
+1308,"Ware, Mr. Frederick",male,No
+1309,"Peter, Master. Michael J",male,No
